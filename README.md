@@ -1,7 +1,7 @@
-<h1 align="center">Mani Vignesh</h1>
+<h1 align="center">K. Mani Vignesh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2500&pause=4000&color=2A7AEF&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI+%2F+ML+Engineer;CSE+(AI)+Student+at+Amrita" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2500&pause=4000&color=2A7AEF&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI+%2F+ML+Engineer" />
 </p>
 
 ---
@@ -18,7 +18,6 @@ I'm a Computer Science and Engineering (AI) student who enjoys solving real-worl
 - 🧩 Solved 180+ problems on LeetCode, with a strong focus on data structures and algorithms
 - 🤝 Experienced in leading teams and owning projects end-to-end, from planning to delivery
 - ⚡ Quick to adapt to new tools and technologies, favoring focused execution over long planning cycles
-- 🗣️ Comfortable communicating across both technical and non-technical stakeholders
 - 🏆 Active in hackathons and academic project competitions
 
 ---
@@ -34,7 +33,7 @@ I'm a Computer Science and Engineering (AI) student who enjoys solving real-worl
 ### 📫 Contact
 
 <p>
-<a href="https://www.linkedin.com/in/mani-vignesh-kothuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mani-vignesh-kothuri-5b3010321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kmvignesh2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/mani_vignesh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
