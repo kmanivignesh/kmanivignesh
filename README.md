@@ -27,6 +27,8 @@ I'm a Computer Science and Engineering (AI) student who enjoys solving real-worl
 - Computer Vision — real-time detection and recognition systems
 - Natural Language Processing — applied NLP for civic and public-service use cases
 - Full-Stack Development — scalable, production-style web applications
+- Big Data / Data Engineering — you have the PySpark groundwater project backing this up
+
 
 ---
 
