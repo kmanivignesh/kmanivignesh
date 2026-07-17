@@ -67,13 +67,12 @@ I've worked on a range of projects spanning natural language processing, full-st
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+📊 GitHub & LeetCode Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kmanivignesh&show_icons=true&hide_border=true&theme=default" />
-<img height="165" src="https://leetcard.jacoblin.cool/mani_vignesh?theme=light&font=Segoe%20UI&ext=heatmap" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kmanivignesh&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+<img height="180" src="https://streak-stats.demolab.com?user=kmanivignesh&hide_border=true&theme=tokyonight" />
 </p>
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmanivignesh&hide_border=true&theme=minimal" />
+<img height="200" src="https://leetcard.jacoblin.cool/mani_vignesh?theme=dark&font=Segoe%20UI&ext=heatmap" />
 </p>
