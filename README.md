@@ -45,43 +45,12 @@ I'm a Computer Science and Engineering (AI) student passionate about **Software 
 
 ## 🛠️ Tech Stack
 
-### Languages
-
-* Python
-* Java
-* JavaScript
-* SQL
-
-### Web Development
-
-* React
-* Node.js
-* Express.js
-* Django
-* HTML5
-* CSS3
-
-### AI / Machine Learning
-
-* PyTorch
-* Scikit-learn
-* OpenCV
-* YOLO (Ultralytics)
-
-### Data Engineering
-
-* Pandas
-* NumPy
-* PySpark
-* MongoDB
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* Docker
-* AWS
-* Postman
+- **Languages:** Python, Java, JavaScript, SQL
+- **Frontend:** HTML5, CSS3, React
+- **Backend:** Node.js, Express.js, Django
+- **AI / ML:** PyTorch, Scikit-learn, OpenCV, YOLO (Ultralytics)
+- **Data:** Pandas, NumPy, PySpark, MongoDB
+- **Tools:** Git, GitHub, Docker, AWS, Postman
 
 ---
 
