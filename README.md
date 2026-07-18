@@ -1,15 +1,14 @@
 <h1 align="center">K. Mani Vignesh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2500&pause=4000&color=2A7AEF&vCenter=true&width=700&lines=Full-Stack+Developer;Applied+AI+%2F+ML+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=28&duration=2500&pause=4000&color=2A7AEF&vCenter=true&width=700&lines=Software+Developer;Full-Stack+Developer;Applied+AI+%2F+ML+Engineer" />
 </p>
-
 ---
+
 
 ### 👋 Summary
 
-I'm a Computer Science and Engineering (AI) student who enjoys solving real-world problems through software, machine learning, deep learning, and AI. I work across the full stack of a project — from system design and backend architecture to building and deploying models — turning ideas into functional, production-ready systems. I also bring strong project ownership and team management experience, having led cross-functional work from requirements through delivery, and I enjoy competitive problem-solving as a way to sharpen core fundamentals.
-
+I'm a Computer Science and Engineering (AI) student passionate about software development, artificial intelligence, machine learning, and building scalable applications. I enjoy solving real-world problems by working across the full stack of a project—from system design and backend architecture to developing and deploying AI models—turning ideas into production-ready systems. I also bring strong project ownership and team management experience, having led cross-functional work from requirements through delivery, and I enjoy competitive programming to strengthen my problem-solving skills.
 ---
 
 ### 🎯 About Me
@@ -24,6 +23,7 @@ I'm a Computer Science and Engineering (AI) student who enjoys solving real-worl
 
 ### 🔭 Currently Exploring
 
+- Software Development — scalable backend systems and clean architecture
 - Computer Vision — real-time detection and recognition systems
 - Natural Language Processing — applied NLP for civic and public-service use cases
 - Full-Stack Development — scalable, production-style web applications
